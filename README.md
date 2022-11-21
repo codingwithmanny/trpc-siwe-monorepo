@@ -2,7 +2,17 @@
 
 This is a project that demonstrates using Sign-In With Ethereum with tRPC using a monorepo setup with lerna.
 
-There will also be a YouTube video for this entire tutorial (coming soon).
+Here is the entire YouTube walkthrough:
+
+[tRPC & Sign-In With Ethereum w/ Monorepos](https://img.youtube.com/vi/P9BAMyCT7TU/0.jpg)
+
+<a href="https://www.youtube.com/watch?v=P9BAMyCT7TU">
+
+![[tRPC & Sign-In With Ethereum w/ Monorepos](https://www.youtube.com/watch?v=P9BAMyCT7TU)](https://img.youtube.com/vi/P9BAMyCT7TU/0.jpg)
+
+</a>
+
+
 
 ## Preview
 
